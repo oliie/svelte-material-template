@@ -1,8 +1,13 @@
 // This file is needed for @smui-components to work
 // since it's imported for all components in rollup.config.js
 
-$mdc-theme-primary: #EE4E42;
-$mdc-theme-secondary: #394960;
+$mdc-theme-primary: #99C6BA;
+$mdc-theme-secondary: #CBE0C0;
+$mdc-theme-background: #FAF9E1;
 
 @import '@material/theme/color-palette';
 @import '@material/theme/variables';
+
+body {
+    background: $mdc-theme-background;
+}

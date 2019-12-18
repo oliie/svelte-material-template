@@ -1,4 +1,4 @@
-# Material Docs
+# Material Docs (@smui / @material)
 
 [https://github.com/hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui)
 
