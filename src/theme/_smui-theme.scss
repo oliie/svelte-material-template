@@ -1,4 +1,6 @@
-// Nothing here. Just use the default theme.
+// This file is needed for @smui-components to work
+// since it's imported for all components in rollup.config.js
+
 $mdc-theme-primary: #EE4E42;
 $mdc-theme-secondary: #394960;
 
