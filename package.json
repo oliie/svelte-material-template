@@ -1,10 +1,14 @@
 {
-  "name": "svelte-app",
+  "name": "svelte-material-templare",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public"
+  },
+  "author": {
+    "name": "Oliver Praesto",
+    "email": "oliver.praesto@gmail.com"
   },
   "devDependencies": {
     "@kazzkiq/svelte-preprocess-scss": "^0.1.3",
